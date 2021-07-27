@@ -1,0 +1,1 @@
+cloudwatch-serverless-hook
